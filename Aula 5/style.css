@@ -1,0 +1,7 @@
+body{
+    background-color: slategrey;
+}
+p,h1,h2{
+    color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
